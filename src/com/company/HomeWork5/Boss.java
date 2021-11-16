@@ -4,7 +4,7 @@ public class Boss {
     private int health;
     private int damage;
     private String defenceType;
-
+    //
     public int getHealth() {
         return health;
     }

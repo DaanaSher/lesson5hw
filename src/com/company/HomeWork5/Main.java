@@ -7,5 +7,6 @@ public class Main {
         boss.setHealth(700);
         boss.setDefenceType("Physical");
         System.out.println(boss.getInfo());
+        //
     }
 }
